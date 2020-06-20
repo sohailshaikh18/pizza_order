@@ -1,2 +1,2 @@
 # pizza_order
-Wisdom Labs Assignment
+core PHP Application to place food item orders.
